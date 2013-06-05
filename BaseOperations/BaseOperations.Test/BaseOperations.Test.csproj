@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MinusTests.cs" />
+    <Compile Include="MultiplyTests.cs" />
     <Compile Include="PlusTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

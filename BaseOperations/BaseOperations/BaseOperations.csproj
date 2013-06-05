@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Minus.cs" />
+    <Compile Include="Multiply.cs" />
     <Compile Include="Plus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
