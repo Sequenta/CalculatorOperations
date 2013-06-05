@@ -18,7 +18,7 @@ namespace BaseOperations.Test
         [Fact]
         public void Throws_DivideByZeroException()
         {
-            Assert.Throws<DivideByZeroException>(() => divide.Perform(new double[] {36, 0}));
+            Assert.Throws<DivideByZeroException>(() => divide.Perform(new double[] {0, 36}));
         }
     }
 }
