@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedOperations", "AdvancedOperations\AdvancedOperations.csproj", "{0868512D-2EF3-47AD-BF50-3A9AB6A6A228}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedOperations.Test", "AdvancedOperations.Test\AdvancedOperations.Test.csproj", "{B46B8E5E-DD1F-42BD-92C2-767F0715BBFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{0868512D-2EF3-47AD-BF50-3A9AB6A6A228}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0868512D-2EF3-47AD-BF50-3A9AB6A6A228}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0868512D-2EF3-47AD-BF50-3A9AB6A6A228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46B8E5E-DD1F-42BD-92C2-767F0715BBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46B8E5E-DD1F-42BD-92C2-767F0715BBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46B8E5E-DD1F-42BD-92C2-767F0715BBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46B8E5E-DD1F-42BD-92C2-767F0715BBFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
