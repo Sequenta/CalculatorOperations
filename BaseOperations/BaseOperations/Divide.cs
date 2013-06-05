@@ -7,7 +7,7 @@ namespace BaseOperations
     {
         public double Perform(params double[] arguments)
         {
-            var result = arguments[0]/arguments[1];
+            var result = arguments[1]/arguments[0];
 
             if (!double.IsInfinity(result))
             {

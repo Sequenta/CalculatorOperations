@@ -6,7 +6,7 @@ namespace BaseOperations
     {
         public double Perform(params double[] arguments)
         {
-            return arguments[0] - arguments[1];
+            return arguments[1] - arguments[0];
         }
 
         public int Arity
