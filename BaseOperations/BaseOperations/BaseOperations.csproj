@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Divide.cs" />
     <Compile Include="Minus.cs" />
     <Compile Include="Multiply.cs" />
     <Compile Include="Plus.cs" />

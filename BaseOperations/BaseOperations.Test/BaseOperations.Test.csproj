@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DivideTests.cs" />
     <Compile Include="MinusTests.cs" />
     <Compile Include="MultiplyTests.cs" />
     <Compile Include="PlusTests.cs" />
